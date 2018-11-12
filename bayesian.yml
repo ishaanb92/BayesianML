@@ -1,0 +1,9 @@
+name: bayes
+dependencies:
+  - numpy
+  - tensorflow
+  - matplotlib
+  - keras
+  - pandas
+  - pymc3
+
