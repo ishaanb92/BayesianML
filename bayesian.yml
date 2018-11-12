@@ -6,4 +6,6 @@ dependencies:
   - keras
   - pandas
   - pymc3
+  - nb_conda_kernels
+  - requests
 
